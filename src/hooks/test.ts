@@ -1,0 +1,1 @@
+export function testHook() { console.log('testt hook') };
